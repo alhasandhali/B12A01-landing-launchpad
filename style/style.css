@@ -15,6 +15,8 @@ button {
     color: #4E47FF;
 }
 /* General CSS End */
+
+/* Header CSS Start */
 header {
     background: url(../Assets/Hero-bg.png) no-repeat center center;
     background-size: cover;
@@ -83,3 +85,183 @@ nav .container button a:hover {
     color: black;
     padding: 15px 40px;
 }
+/* Header CSS End */
+
+/* Action CSS Start */
+.action {
+    padding-top: 116px;
+}
+
+.action .container {
+    align-items: center;
+}
+
+.action .ls {
+    padding-right: 205px;
+}
+
+.action .ls h3 {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+
+.action .ls p {
+    margin-top: 23px;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    color: #252432;
+    line-height: 30px;
+}
+
+.action .ls button {
+    margin-top: 23px;
+}
+
+.action .ls button a {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 1s;
+    padding: 12px 36px;
+    background: #4E47FF;
+    color: #fff;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.action .ls button a:hover {
+    background: yellow;
+    color: black;
+    padding: 15px 40px;
+}
+
+.action .rs img {
+    border-radius: 50px;
+}
+/* Action CSS End */
+
+/* User CSS Start */
+.user {
+    padding-top: 116px;
+}
+
+.user .container .user-sec {
+    width: 100%;
+    padding: 50px 80px;
+    background: #4E47FF1A;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.user .user-sec h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    margin-bottom: 40px;
+}
+
+.user .user-sec .num {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user .user-sec .num .each h1{
+    font-family: "Inter", sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.user .user-sec .num .each p{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: #00000080;
+    text-transform: capitalize;
+}
+/* User CSS End */
+
+/* Feedback CSS Start */
+.feedback {
+    margin-top: 137px;
+}
+
+.feedback .container-2 {
+    margin: 0 auto;
+    width: 1140px;
+    text-align: center;
+}
+
+.feedback .container-3 {
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.feedback h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    margin-bottom: 49px;
+}
+
+.feedback .container .person {
+    display: flex;
+    justify-content: space-between;
+}
+
+.feedback .person .card {
+    display: inline-block;
+    padding: 24px;
+    width: 28.89%;
+}
+
+.feedback .person .card .stars i {
+    width: 20px;
+    height: 20px;
+    color: #FFB805;
+}
+
+.feedback .person .card h4 {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #252432;
+    margin-top: 24px;
+}
+
+.feedback .person .card p {
+    margin-top: 8px;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    color: #252432;
+}
+
+.feedback .person .card .profile {
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.feedback .person .card .profile img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.feedback .person .card .details h5 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #25243283;
+}
+
+.feedback .person .card .details p {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    color: #25243280;
+}
+
+
+/* Feedback CSS End */
