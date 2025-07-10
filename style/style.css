@@ -2,3 +2,84 @@
     margin: 0;
     padding: 0;
 }
+
+ul, li, a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+}
+
+.primary-color {
+    color: #4E47FF;
+}
+/* General CSS End */
+header {
+    background: url(../Assets/Hero-bg.png) no-repeat center center;
+    background-size: cover;
+}
+
+nav {
+    padding: 50px 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .container .logo h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav .container button a {
+    padding: 12px 36px;
+    font-family: "Inter", sans-serif;
+    background: #4E47FF;
+    color: #fff;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+nav .container button a:hover {
+    background: yellow;
+    color: black;
+    padding: 15px 40px;
+}
+
+.banner {
+    text-align: center;
+    padding: 158px 0;
+}
+
+.banner h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+}
+
+.banner button {
+    margin-top: 37px;
+}
+
+.banner button a {
+    padding: 12px 36px;
+    font-family: "Inter", sans-serif;
+    background: #4E47FF;
+    color: #fff;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.banner button a:hover {
+    background: yellow;
+    color: black;
+    padding: 15px 40px;
+}
