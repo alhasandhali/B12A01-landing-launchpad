@@ -1,23 +1,17 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
-
-### 📅 Deadline For 60 marks: 11th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 12th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks:\*\* Any time after 12th July.
+## 🌟 ASSIGNMENT-001 😎
 
 ---
 
-## ✅ Main Requirements (50 Marks)
+## ✅ Main Requirements (Done)
 
-### 1. Navbar Section
+### 1. Navbar Section (Done)
 
 - **Logo/Website name** on the left.
 - **Sign Up Button** on the right.
 
 ---
 
-### 2. Banner Section (10 Marks)
+### 2. Banner Section (Done)
 
 - **Heading** in the center. (3)
 - **Stay Focused** button in the center. (3)
@@ -28,7 +22,7 @@
 
 <img width="100%" src="./ui/banner.png">
 
-### 3. Action Section
+### 3. Action Section (Done)
 
 - Left Side:
   - Title
@@ -41,7 +35,7 @@
 
 ---
 
-### 4. Productive Users Section
+### 4. Productive Users Section (Done)
 
 - **Background color** to separate the section.
 - **Centered title**.
@@ -51,7 +45,7 @@
 
 ---
 
-### 5. Let’s Get In Touch Section (10 Marks)
+### 5. Let’s Get In Touch Section (Done)
 
 - Left Side:
   - Section Title
@@ -63,7 +57,7 @@
 
 ---
 
-### 6. Footer Section
+### 6. Footer Section (Done)
 
 - Centered:
   - Website name
@@ -72,7 +66,7 @@
 
 ## <img width="100%" src="./ui/footer.png">
 
-## 🧪 CHALLENGES (10 Marks)
+## 🧪 CHALLENGES  (Done)
 
 ### 7. Users’ Feedback Section
 
@@ -84,7 +78,7 @@
 
 ---
 
-### 8. Button Animation 
+### 8. Button Animation (Done)
 
 - Hover effect or animation on the all the buttons.
 
@@ -92,34 +86,16 @@
 
 ---
 
-## ❓ Common Queries & Answers
-
-> ❓ আমি কি অন্য ইমেজ ব্যবহার করতে পারবো?  
-> ✅ হ্যা, যেকোন রিলেভ্যান্ট ইমেজ ব্যবহার করা যাবে।
-
-> ❓ আমি কি এলাইনমেন্ট আলাদা ভাবে করে মনের মতো ডিজাইন করতে পারবো?  
-> ❌ না। তোমাকে এলাইনমেন্ট ঠিক রাখতে হবে।
-
-> ❓ আমি কি ডিজাইনে কালার চেঞ্জ করতে পারবো ?  
-> ✅ হ্যা , তুমি চাইলে রিলেভ্যান্ট কালার ব্যবহার করতে পারো।
-
-> ❓ আমাকে কি একদম পারফেক্ট মার্জিন প্যাডিং দিয়ে একদম পিক্সেল পারফেক্ট পেজ বানাতে হবে?  
-> ❌ না। তুমি ফিগমা দেখে নিজের মতো মার্জিন প্যাডিং ব্যবহার করতে পারো।
-
----
-
 ## ⚙️ Technology Stack
 
 - HTML
 - CSS
-- ⚠️ **No frameworks or libraries** allowed.
 
 ---
 
 ## 📌 Rules
 
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+- ✅ Minimum **5 meaningful commits** required. (Done)
 
 ---
 
