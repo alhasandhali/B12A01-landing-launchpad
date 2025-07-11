@@ -95,11 +95,11 @@
 
 ## 📌 Rules
 
-- ✅ Minimum **5 meaningful commits** required. (Done 9 commits)
+- ✅ Minimum **5 meaningful commits** required. (Done 10 commits)
 
 ---
 
-## 🔗 What to Submit
+## 🔗 Source
 
 - 📂 **GitHub Repository: https://github.com/alhasandhali/B12A01-landing-launchpad**
 - 🌐 **Live Link: https://alhasandhali.github.io/B12A01-landing-launchpad/**
