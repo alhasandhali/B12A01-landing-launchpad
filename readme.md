@@ -93,9 +93,9 @@
 
 ---
 
-## 📌 Rules
+## 📌 Commita
 
-- ✅ Minimum **5 meaningful commits** required. (Done 10 commits)
+- ✅ Done 11 commits
 
 ---
 
