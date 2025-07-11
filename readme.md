@@ -18,7 +18,7 @@
 
 ---
 
-## 🚩 The Navbar and Banner will have an Background Image
+## 🚩 The Navbar and Banner will have a Background Image
 
 <img width="100%" src="./ui/banner.png">
 
@@ -50,7 +50,7 @@
 - Left Side:
   - Section Title
 - Right Side:
-  - Label + Input for Name, Email & Message
+  - Label + Input for Name, Email, & Message
   - Get in Touch Button
 
 <img width="100%" src="./ui/newsletter.png">
@@ -80,7 +80,7 @@
 
 ### 8. Button Animation (Done)
 
-- Hover effect or animation on the all the buttons.
+- Hover effect or animation on all the buttons.
 
 <img width="100%" src="https://resources.nicepage.com/977/118977/hover-effect-duration.gif">
 
@@ -93,9 +93,9 @@
 
 ---
 
-## 📌 Commita
+## 📌 Commits
 
-- ✅ Done 11 commits
+- ✅ Done 12 commits
 
 ---
 
