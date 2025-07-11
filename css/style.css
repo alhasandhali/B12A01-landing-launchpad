@@ -264,11 +264,16 @@ nav .container button a:hover {
   margin-right: 10px;
 }
 
-.feedback .person .card .details h5 {
+.feedback .person .card .details h5 a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: #25243283;
+  transition: 0.5s;
+}
+
+.feedback .person .card .details h5 a:hover {
+  color: #000;
 }
 
 .feedback .person .card .details p {
